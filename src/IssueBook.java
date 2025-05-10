@@ -14,11 +14,6 @@ import javax.swing.JOptionPane;
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-
-/**
- *
- * @author Sudhir Kushwaha
- */
 public class IssueBook extends javax.swing.JFrame {
         PreparedStatement pst;
         ResultSet rs;
